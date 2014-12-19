@@ -4,6 +4,17 @@ We're thrilled that you've chosen to present at the very first FOSDEM Open Sourc
 
 (This text is adapted from the materials prepared by Jeff Weiss and R. Tyler Croy for the Testing and Automation Dev Room. If you ever decide to host your own Dev Room at FOSDEM, forking their repo to make use of these materials is highly recommended: https://github.com/fosdem-testingautomation/room-materials. Many thanks to Jeff and Tyler for sharing them!)
 
+BEFORE WE GET STARTED:
+----------------------
+The previous plan was for the Program Committee to load your submissions into FOSDEM's proposal system, Pentabarf, then do the required backend magic to get the proposals accepted in the system and then published on the conference website.
+
+Feedback from the organizers is that this is possible, but it is *strongly* encouraged that you submit your talks yourself via Pentabarf and we then accept them from there.
+
+So, please login to your existing Pentabarf account / create a new account, then submit your accepted proposal text to the Open Source Search Dev Room. Once you're done, ping opensourcesearch-devroom@lists.fosdem.org to let us know that this has occurred so we can accept the proposal in the system. 
+
+You can get started at https://penta.fosdem.org/submission/FOSDEM15
+
+If you're having trouble submitting your proposal, please let us know at opensourcesearch-devroom@lists.fosdem.org. The Pentabarf system is a bit tough to use at first, but it does the job. :)
 
 A LITTLE ABOUT FOSDEM:
 ----------------------
