@@ -11,14 +11,16 @@ FOSDEM is very geared towards free and open source projects. It's a great place 
 
 If you are uncertain whether a particular image, joke, etc. that you'd like to use in your presentation would be appropriate, please contact the Open Source Search Dev Room program committee at opensourcesearch-devroom@lists.fosdem.org. We will be happy to assist by reviewing your materials in advance of the conference.
 
-Please note that we may ask you to stop your presentation and leave the stage if you present materials that are sexist, racist or otherwise derogatory to any person or group. Be kind to your fellow attendees and kind to yourself - keep it real, but keep it clean. (And reach out to us early and often for help: opensourcesearch-devroom@lists.fosdem.org.)
+Please note that we may ask you to stop your presentation and leave the stage if you present materials that are sexist, racist or otherwise derogatory to any person or group. Be kind to your fellow attendees and kind to yourself - keep it real, but keep it clean and respectful. (And reach out to us early and often for help: opensourcesearch-devroom@lists.fosdem.org.)
 
 
 COMMUNICATION:
 --------------
-We will set up a mailing list for further communication. I will send further details about it later. This is how we will coordinate the schedule and keep everybody informed of what is going on.
+We will set up a mailing list for further communication. I will send further details about it later. This is how we will coordinate and keep everybody informed of what is going on.
 
 You can reach me privately at this email address, or by phone in The Netherlands at $$NUMBER$$. I travel a great deal for work, so email is likely the best way to reach me. I am also on Twitter with handle @lhawthorn, or on Freenode with nick lh.
+
+You can reach the entire program committee at opensourcesearch-devroom@lists.fosdem.org, which is the best way to get in touch up to a week before FOSDEM. 
 
 We're still in the process of confirming our other on-site contacts for the Dev Room, and we'll follow up with their contact details in a later email. 
 
@@ -29,15 +31,39 @@ The devroom will be one day, on January 31, 2015 from 10:30 - 19:00. All talks w
 
 We have an extremely tight schedule for the Dev Room, so please arrive at least 20 minutes prior to your session to check in for your presentation. If we don't know that you're in the Dev Room 20 minutes prior to your talk, we'll start sending carrier pigeons and using other means to find you. :)
 
-Talks are scheduled for 45 minutes total. One of the program committee members will introduce you for approximately 1 minute, and you will have the remaining time to speak *and* answer questions. Please use the final 5-10 minutes for Q&A wiht the audience.
+Talks are scheduled for 45 minutes total. One of the program committee members will introduce you for approximately 1 minute, and you will have the remaining time to speak *and* answer questions. Please use the final 5-10 minutes for Q&A with  the audience.
 
-We don't have a lot of slip room between talks, so as you enter the Q&A period we will be asking the speaker(s) following you to begin setting up to present. In order to help you keep track of time, we will hold up signs with a 10 minute, 7 minute, 5 minute and 2 minute warning to let you know how much time remains for your session. 
+We don't have a lot of slip room between talks, so as you enter the Q&A period we will be asking the speaker(s) following you to begin setting up to present. In order to help you keep track of time, we will hold up signs with a 10 minute, 5 minute and 2 minute warning to let you know how much time remains for your session. 
 
 If you haven't moved to Q&A by the time we reach the 2 minute warning, we may ask you to take Q&A in the hallway to leave time for the next speaker's session. It's critical that we don't overrun the allotted time for each session, so please keep your remarks timed for 45 minutes total, including time for questions.
 
+We're leaving 5 minutes between talks for speaker set up, but let's do our best not to need the additional buffer. :)
+
 Barring some drastic conflict, the tentative schedule is:
 
-$$TENTATIVESCHEDULE$$
+10:30 - 10:35 - Leslie Hawthorn: Welcoming Remarks
+
+10:35 - 11:20 - Vladimir Fedorkov: Sphinx search technical highlights
+
+11:25 - 12:10 - Anna Ohanyan, Christian Ziech: Effective spelling correction with term relation graphs using Lucene FSTs
+
+12:15 - 13:00 - Florian Lautenschlager & Johannes Weigend: Apache Solr as a compressed, scalable and high performance time series database
+
+13:05 - 13:50 - Alex Brasetvik: Elasticsearch from the Bottom Up
+
+14:00 - 14:45 - Uwe Schindler: Apache Lucene 5
+
+14:50 - 15:35 - Alan Woodward & Martin Kleppmann: Searching over Streams with Luwak and Apache Samza
+
+15:40 - 16:25 - Nicola Buso: EBISearch - Biological data search engine
+
+16:30 - 17:15 - Christoph Goller - The Typed Index
+
+17:20 - 18:05 - Gustavo Fernandes - Querying your datagrid with Lucene, Hadoop and Spark
+
+18:05 - 18:50 - Pere Urbon Bayes - ELK, making sense of your data (not just for logs!)
+
+18:50 - 19:00 - Leslie Hawthorn - Closing Remarks
 
 MATERIALS:
 ----------
