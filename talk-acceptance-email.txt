@@ -1,62 +1,39 @@
-Hello everyone! (Bcc'd)
+Hello Speakers!
 
-I'm writing to inform you that your talk proposal has been accepted
-for the $$ROOMNAME$$ devroom at $$FOSDEM_YEAR$$.
+We're thrilled that you've chosen to present at the very first FOSDEM Open Source Search Dev Room! This email will give you some idea of what to expect at the conference, where to find the room where you'll speak, and some tips for success in your presentation.
 
-
-
-First though, let's get down to business, please read this email in
-its entirety.`
-
-If you cannot participate, please let us know ASAP. Please confirm
-with us that you will be present on $$DATE$$ in Brussels and prepared
-to speak.
+(This text is adapted from the materials prepared by Jeff Weiss and R. Tyler Croy for the Testing and Automation Dev Room. If you ever decide to host your own Dev Room at FOSDEM, forking their repo to make use of these materials is highly recommended: https://github.com/fosdem-testingautomation/room-materials. Many thanks to Jeff and Tyler for sharing them!)
 
 
 A LITTLE ABOUT FOSDEM:
 ----------------------
-FOSDEM is very geared towards free and open source projects. It's a
-great place to talk about open source software, new projects,
-community efforts, etc. Also, do NOT make sexist or racist jokes in
-your presentation, or at all really. FOSDEM is a universal and
-welcoming conference, please be respectful to your fellow hackers.
+FOSDEM is very geared towards free and open source projects. It's a great place to talk about open source software, new projects, community efforts, etc. Also, do NOT make sexist or racist jokes in your presentation, or at all really. FOSDEM is a universal and welcoming conference, please be respectful to your fellow hackers.
+
+If you are uncertain whether a particular image, joke, etc. that you'd like to use in your presentation would be appropriate, please contact the Open Source Search Dev Room program committee at opensourcesearch-devroom@lists.fosdem.org. We will be happy to assist by reviewing your materials in advance of the conference.
+
+Please note that we may ask you to stop your presentation and leave the stage if you present materials that are sexist, racist or otherwise derogatory to any person or group. Be kind to your fellow attendees and kind to yourself - keep it real, but keep it clean. (And reach out to us early and often for help: opensourcesearch-devroom@lists.fosdem.org.)
 
 
 COMMUNICATION:
 --------------
-We will set up a mailing list for further communication. I will send
-further details about it later.
-This is how we will coordinate the schedule and keep everybody
-informed of what is going on.
+We will set up a mailing list for further communication. I will send further details about it later. This is how we will coordinate the schedule and keep everybody informed of what is going on.
 
-You can reach me privately at this email address, or by phone in the
-US at $$PHONE$$ (until ~Jan. 28th). I will send everybody my
-European mobile number when I get it on Jan. 30th. You can also reach
-me via Twitter at @jeffweiss, I'm also "jeffweiss" on the Freenode IRC
-network.
-Alternatively, you can reach our other fearless devroom manager, R
-Tyler Croy, at tyler@monkeypox.org, US mobile at $$PHONE$$, and
-"rtyler" on Freenode and EFNet IRC networks.
+You can reach me privately at this email address, or by phone in The Netherlands at $$NUMBER$$. I travel a great deal for work, so email is likely the best way to reach me. I am also on Twitter with handle @lhawthorn, or on Freenode with nick lh.
+
+We're still in the process of confirming our other on-site contacts for the Dev Room, and we'll follow up with their contact details in a later email. 
 
 
 SCHEDULE:
 ---------
-The devroom will be one day, on February 1st, 2015 from 10:00 to 17:10.
+The devroom will be one day, on January 31, 2015 from 10:30 - 19:00. All talks will take place in S.UA2.114.
 
-Full talks are 45 minutes total, this means Tyler or I will take 1
-minute to introduce you, and you have the remaining time to speak AND
-answer questions. Please use the final 5-10 minutes of your timeslot
-to answer questions from the audience.
+We have an extremely tight schedule for the Dev Room, so please arrive at least 20 minutes prior to your session to check in for your presentation. If we don't know that you're in the Dev Room 20 minutes prior to your talk, we'll start sending carrier pigeons and using other means to find you. :)
 
-We tried to accept as many proposals as we possibly could, and, as
-such, our schedule is *very* tight, with 10 minutes between talks.
-Please be courteous to the next speakers and audience and finish
-on-time!
+Talks are scheduled for 45 minutes total. One of the program committee members will introduce you for approximately 1 minute, and you will have the remaining time to speak *and* answer questions. Please use the final 5-10 minutes for Q&A wiht the audience.
 
-We expect to see you in the room at least 10 minutes before your
-presentation to make sure you're hooked up, ready to speak at the
-scheduled time, and that I get the opportunity to shake your hand and
-personally thank you for participating.
+We don't have a lot of slip room between talks, so as you enter the Q&A period we will be asking the speaker(s) following you to begin setting up to present. In order to help you keep track of time, we will hold up signs with a 10 minute, 7 minute, 5 minute and 2 minute warning to let you know how much time remains for your session. 
+
+If you haven't moved to Q&A by the time we reach the 2 minute warning, we may ask you to take Q&A in the hallway to leave time for the next speaker's session. It's critical that we don't overrun the allotted time for each session, so please keep your remarks timed for 45 minutes total, including time for questions.
 
 Barring some drastic conflict, the tentative schedule is:
 
@@ -64,64 +41,40 @@ $$TENTATIVESCHEDULE$$
 
 MATERIALS:
 ----------
-If you wish to present using your laptop, that is preferred, but you
-will be responsible for bringing your *own* VGA adapter cable.
+If you wish to present using your laptop, that is preferred, but you will be responsible for bringing your *own* VGA adapter cable.
 
-If you do not wish to use your own laptop, you will need to send me a
-PDF or LibreOffice-compatible presentation document that I can project
-from my own laptop. This must be sent to me *before* I get to the
-beer-bash the Friday night before (Jan 30th).
+If you do not wish to use your own laptop, you will need to send me a PDF document that I can project from my own laptop. This must be sent to me *before* Friday, January 30, 2015. It's also worthwhile, just in case, to bring your presentation with you on a USB stick in PDF format. 
 
 
 THE ROOM:
 ---------
-We will be located in $$ROOM$$ which has $$SEATS$$ seats. Please keep this
-in mind when preparing slides or demos, small fonts will be difficult
-to see!
+We will be located in S.UA2.114 which has 207 seats. Please keep this in mind when preparing slides or demos, small fonts will be difficult to see!
 
-This room will also be recorded and, I believe, live-streamed. Edited
-video recordings will be posted to http://video.fosdem.org some time
-after the conference by the general FOSDEM staff and volunteers. By
-confirming your attendance you agree to have your talk recorded and
-posted.
+This room will also be recorded and, I believe, live-streamed. Edited video recordings will be posted to http://video.fosde .org some time after the conference by the general FOSDEM staff and volunteers. By confirming your attendance you agree to have your talk recorded and posted.
 
 
 MARKETING:
 ----------
-Tell everybody to come to FOSDEM and see you talk! We want to see all
-$$SEATS$$ seats filled all day (and people standing in the hall waiting to
-get in)! You're a very important part of FOSDEM, and can be a big help
-to get others excited about the conference.
+Tell everybody to come to FOSDEM and see you talk! We want to see all 200+ seats filled all day! You're a very important part of FOSDEM, and can be a big help to get others excited about the conference.
 
-Here are some things you can do to help with getting the word out on
-your talk once we've published the schedule:
+Here are some things you can do to help with getting the word out on your talk once we've published the schedule:
 
-Post to Twitter/Google+:
-  It would be best to publish an announcement right when the schedule
-is published ("Yay! I'm speaking in the Testing/Automation devroom at
-#FOSDEM! ") and about a week before FOSDEM.
-  Extra credit for posting about other people's talks that you want to
+Post to identi.ca/Twitter/Google+/Other Social Media:
+It would be best to publish an announcement right when the schedule is published ("Yay! I'm speaking in the Testing/Automation devroom at #FOSDEM! ") and about a week before FOSDEM. Extra credit for posting about other people's talks that you want to
 see too :)
 
 Blog about it:
-  I'm sure most of you have blogs, write up a blog post introducing
-your talk, FOSDEM, and
-  the devroom itself.
+I'm sure most of you have blogs, write up a blog post introducing your talk, FOSDEM, and the devroom itself.
 
 Let your open source community know!
-  Send an email to the developers/users mailing lists for the open
-source project that's related
-  to your talk and let them know you'll be speaking at FOSDEM on the subject!
+Send an email to the developers/users mailing lists for the open source project that's related to your talk and let them know you'll be speaking at FOSDEM on the subject! Obviously, if such communications are not traditional in your community, you may not wish to send these sorts of communications. You know what your community norms are much better than we do. :)
 
-If you need help proof-reading a blog post or an email, or have links
-for us to share, please ask Tyler or me, or on the mailing list once
-it is created. We can definitely help.
+If you need help proof-reading a blog post or an email, or have links for us to share, please ask me, or on the mailing list once it is created. We can definitely help.
 
 
 SOME UNSOLICITED ADVICE:
 ------------------------
-Tyler and I been speaking publicly for a number of years, so here's
-some advice that we hope you don't mind reading:
+Here's some excellent advice on preparing for your presentation.
 
   * Do not wait until your plane/train ride to create your presentation.
     Firstly, everybody in the audience can tell, but more importantly, it does
@@ -157,9 +110,7 @@ presentation (and help
     audience.
 
 
-We will be publishing the schedule on the fosdem.org website as soon
-as we start to get confirmation from speakers, so confirm as soon as
-possible!.
+We will be publishing the schedule on the fosdem.org website over the next few days.
 
 If you have any questions, feel free to ask me directly.
 
@@ -169,4 +120,6 @@ Can't wait to meet you all and have a great time in Brussels!
 
 Cheers,
 
-Jeff Weiss and R Tyler Croy
+LH on behalf of the Open Source Search Dev Room Program Committee*
+
+* Boaz Leskes, Isabel Drost-Fromm, Leslie Hawthorn, Ted Dunning, Torsten Curdt, Uwe Schindler
